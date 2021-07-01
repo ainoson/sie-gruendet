@@ -1057,7 +1057,7 @@ blockquote {
 }
 .cid-sBODXj4eA3 {
   padding-top: 7rem;
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-sBODXj4eA3 .mbr-overlay {
@@ -1069,7 +1069,7 @@ blockquote {
   align-items: center;
 }
 .cid-sBODXj4eA3 .item-wrapper {
-  width: 100%;
+  width: 150%;
 }
 .cid-sBODXj4eA3 .carousel-caption {
   bottom: 40px;
@@ -1085,11 +1085,11 @@ blockquote {
 }
 .cid-sBODXj4eA3 .carousel-control.carousel-control-prev {
   left: 0;
-  margin-left: 2.5rem;
+  margin-left: 0.5rem;
 }
 .cid-sBODXj4eA3 .carousel-control.carousel-control-next {
   right: 0;
-  margin-right: 2.5rem;
+  margin-right: 0.5rem;
 }
 @media (max-width: 767px) {
   .cid-sBODXj4eA3 .carousel-control {
